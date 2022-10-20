@@ -13,6 +13,7 @@ public class quraticsolver {
 				System.out.println("The solutions for the equation " + a + "x^2 + " + b +"x + " + c +" are");
 				System.out.println((-b+Math.sqrt(b*b-4*a*c))/2*a + " and " + (-b-Math.sqrt(b*b-4*a*c))/2*a);
 			}
+			println("Galen made this cool change!");
 	}
 
 }
